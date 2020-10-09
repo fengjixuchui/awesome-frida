@@ -54,6 +54,7 @@ More info [here](http://www.frida.re/).
 - [r2frida](https://github.com/nowsecure/r2frida) - static and dynamic analysis synergy
 - [ios-inject-custom](https://github.com/oleavr/ios-inject-custom) - use Frida for standalone injection of a custom payload for iOS.
 - [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) - Repository including scripts for COM, .NET and WinRT for Windows
+- [XposedFridaBridge](https://github.com/monkeylord/XposedFridaBridge) - A frida script implement XposedBridge & load xposed modules, without installing xposed framwork.
 
 <a name="talks-and-papers" />
 
@@ -97,7 +98,8 @@ More info [here](http://www.frida.re/).
 * [House](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
 * [Dwarf](https://github.com/igio90/Dwarf) - A debugger built on top of PyQt5 and frida
 * [Dexcalibur](https://github.com/FrenchYeti/dexcalibur) - A dynamic binary instrumentation tool designed for Android apps and powered by Frida
-
+* [bagbak](https://github.com/ChiChou/bagbak) - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
+* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 
 <a name="videos" />
 
